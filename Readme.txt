@@ -1,0 +1,1 @@
+In this excercise, I use deep learning and threshold manipulation to recommened "priority customers"(Customers who have a higher rate of leaving the bank)
